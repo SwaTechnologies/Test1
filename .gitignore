@@ -1,4 +1,13 @@
-.pdb
-.ini
-.proj
-.classpath
+*.pdb
+*.ini
+*.proj
+*.classpath
+*.log
+*.o
+/bin
+*.pyc
+*.class
+/out
+/target
+/node_modules
+
